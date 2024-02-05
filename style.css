@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    height: 100%;
+    background-color: purple;
+}
+
+.container {
+    width: 400px;
+    margin: 150px auto;
+    border: solid;
+    border-radius: 2px;
+    border-color: #fff;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #fff;
+    margin-top: 20px;
+}
+
+p {
+    color: #fff;
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
